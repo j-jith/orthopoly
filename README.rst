@@ -65,7 +65,7 @@ following.
 
 
 For more examples, please look at the ``__main__`` section of ``orthopoly.py``,
-as well as the ``main,py`` script. ``main.py`` is a script which generates
+as well as the ``main.py`` script. ``main.py`` is a script which generates
 orthogonal polynomials for the pdf of a random variable which is a sum of a
 uniform and a normal random variable. It generates the polynomials, calculates
 the quadrature points and weights, and writes them to an output file.
